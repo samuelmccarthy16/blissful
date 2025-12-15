@@ -89,15 +89,4 @@
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.21"
   }
-<<<<<<< HEAD
-=======
-  {
-  "scripts": {
-    "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
-  "homepage": "https://samuelmccarthy16.github.io/blissful"
-}
->>>>>>> 27aeef86ef61a304b56fdedea91e21fad9d12025
 }
